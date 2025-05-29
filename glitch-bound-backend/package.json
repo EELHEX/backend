@@ -1,0 +1,17 @@
+{
+  "name": "glitch-bound-backend",
+  "version": "1.0.0",
+  "description": "My desperate attempt to make DarkGemini's code run on Glitch",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Some Hapless User",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",   
+    "cors": "^2.8.5",    
+    "express": "^4.18.0" 
+  }
+}
